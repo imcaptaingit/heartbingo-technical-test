@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HomePageTest"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="10.211">
+  <properties />
+  
+  
+            <testcase name="UserShouldBeAbleToAcceptAllCookies" time="10.211" classname="uk.co.heartbingo.testsuite.HomePageTest" />
+      
+</testsuite>
